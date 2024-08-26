@@ -1,0 +1,2 @@
+ipykernel==6.29.5
+reflex==0.5.9
